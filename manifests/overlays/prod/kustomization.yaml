@@ -15,5 +15,3 @@ namespace: "82265634"
 images:
 - name: cepgstapacr.azurecr.io/82265634
   newTag: "202411060156"
-- name: cepgstapacr.azurecr.io/cloud-sample
-  newTag: "202411050905"
